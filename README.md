@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 [![Kchenfan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kchenfan&theme=dracula)](https://github.com/Kchenfan/github-readme-activity-graph)
 <img slign='right' src="https://profile-counter.glitch.me/Kchenfan/count.svg" width="200" color="white">
 
-![github](https://stats.justsong.cn/api/github/?username=KarinaChenFang&theme=light)
+![github](https://stats.justsong.cn/api/github/?username=Karina_Chen_Fang&theme=light)
 ![Kchenfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kchenfan&theme=vue&show_icons=true)
 ![github](https://stats.justsong.cn/api/leetcode/?username=kchenfan&theme=light)
 
