@@ -1,5 +1,7 @@
 ### Welcome to my profile 👋
 
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to my profile;Thank you for visiting my GitHub&font=Roboto" />
+
 <!--
 **Kchenfan/Kchenfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -56,10 +58,11 @@ Here are some ideas to get you started:
 ![Spanish](https://img.shields.io/badge/-Spanish-FDEEF4?style=flat-square)
 
 [![Kchenfan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kchenfan&theme=dracula)](https://github.com/Kchenfan/github-readme-activity-graph)
-<img slign='right' src="https://profile-counter.glitch.me/Kchenfan/count.svg" width="200" color="white">
+![GitHub Views](https://komarev.com/ghpvc/?username=Kchenfan&color=F5ADD8)
 
-![github](https://stats.justsong.cn/api/github/?username=kchenfan&theme=light)
-![Kchenfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kchenfan&theme=vue&show_icons=true)
-![github](https://stats.justsong.cn/api/leetcode/?username=kchenfan&theme=light)
 
+<p align="center">
+  <img src="https://stats.justsong.cn/api/github/?username=kchenfan&theme=light" />
+  <img src="https://stats.justsong.cn/api/leetcode/?username=kchenfan&theme=light" />
+</p>
 
