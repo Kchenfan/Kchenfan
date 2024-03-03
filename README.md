@@ -98,6 +98,14 @@
 
 <hr/>
 
+<h2 align="center">⚡ Certificates ⚡</h2>
+<br>
+<p align="center"> 
+
+<img src="https://github.com/Kchenfan/Kchenfan/assets/133133384/9c1ef049-f191-43b1-a667-df5f86c1bd4c" alt="ibm" width="100%">
+
+</p>
+
 <br/>
 
 <div align="center">
@@ -120,4 +128,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
