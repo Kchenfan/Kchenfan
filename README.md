@@ -79,7 +79,7 @@
   
   [![Kchenfan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kchenfan&theme=dracula)](https://github.com/Kchenfan/github-readme-activity-graph)
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> 
+  <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> -->
   
   ![GitHub Views](https://komarev.com/ghpvc/?username=Kchenfan&color=F5ADD8)
   <br/><br/><br/>
